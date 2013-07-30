@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/antlr-3.4-complete-no-antlrv2.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/External_Tools.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/FeatureBuilder.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/joda-time-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/jwnl.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/NLP_BasicKit.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/TimeML_BasicKit.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/TIMEN.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/workspace/TE_Normalization/lib/Utils_BasicKit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
